@@ -69,6 +69,46 @@ https://github.com/AlexNisnevich/untrusted
 
 empfehlen
 
+Hinweis
+
+hochbringen
+
+https://www.duden.de/rechtschreibung/hochbringen
+
+das Autofahren
+
+Klang, klingen
+
+Zeig mal! - Show me!
+
+eines Tages
+
+Flugbegleiter
+
+https://de.m.wikipedia.org/wiki/Flugbegleiter
+
+unvorstellbar
+
+https://www.dwds.de/wb/unvorstellbar#d-1-1-2
+
+ufrechterhalten
+
+https://www.duden.de/rechtschreibung/aufrechterhalten
+
+Dinge / Sache
+
+noch verwendet
+
+https://context.reverso.net/%C3%BCbersetzung/deutsch-englisch/noch+verwendet
+
+"einander" vs. "sich" vs. "sich gegenseitig/wechselseitig"
+
+https://german.stackexchange.com/questions/5306/einander-vs-sich-vs-sich-gegenseitig-wechselseitig
+
+passieren, geschehen, auftreten, erfolgen und stattfinden
+
+https://www.reddit.com/r/German/comments/t7d5lx/wie_unterscheiden_sich_passieren_geschehen/?tl=de
+
 ## Rechtschreibung
 
 Datum
@@ -79,6 +119,14 @@ vor kurzem / vor Kurzem
 
 https://www.duden.de/rechtschreibung/vor_Kurzem
 
+nachhause / nach Hause
+
+https://www.scribbr.de/getrennt-und-zusammenschreibung/nach-hause/
+
+sowie
+
+https://www.duden.de/rechtschreibung/sowie
+
 ## Morphology
 
 ### Präfixe
@@ -88,6 +136,8 @@ Meanings of prefixes
 https://www.studysmarter.de/studium/germanistik/sprachwissenschaft/praefixe/
 
 -mäßig
+
+-bar
 
 ### Präpositionen
 
@@ -112,6 +162,14 @@ https://www.deutsch-als-fremdsprache.de/austausch/forum/read.php?4,84400
 Wie erkenne ich an den Endungen oder an der Bedeutung, dass ein Nomen maskulin, feminin oder neutral ist?
 
 https://www.easygermangrammarstories.de/grammatik/der-die-das-endungen-und-bedeutungsgruppen/
+
+### Fälle
+
+https://deutsch.lingolia.com/de/grammatik/deklination/genitiv-dativ-akkusativ
+
+### Andere
+
+viel / vieles, alle / alles
 
 ## Zeiten
 
@@ -150,7 +208,11 @@ lassen
 
 https://easy-deutsch.de/verben/lassen/
 
+sollen / sollten
+
 ### Modal particles
+
+https://en.m.wikipedia.org/wiki/German_modal_particles
 
 ### Passiv
 
@@ -170,7 +232,27 @@ https://www.lingoda.com/blog/en/german-adjective-declension/
 
 leider
 
+es oder das
+
+https://www.gymglish.com/de/wunderbla/deutsche-grammatik/es-oder-das
+
 ### Konnektoren
+
+dass
+
+was oder das
+
+https://www.gymglish.com/de/wunderbla/deutsche-grammatik/was-oder-das
+
+der, die, das (which - який, яка, яке) + mit Präpositionen
+
+darauf, darüber, darum, ...
+
+--
+
+weil, denn, ...
+
+deshalb, deswegen, ...
 
 obwohl, trotzdem, trotz
 
@@ -180,7 +262,31 @@ bevor
 
 sowohl als auch
 
-## Z. B.
+https://de.m.wiktionary.org/wiki/sowohl_%E2%80%A6_als_auch
+
+um ... zu / zu
+
+https://learngerman.dw.com/de/finals%C3%A4tze-um-zu-1/l-40606838/gr-40608964
+
+https://www.duden.de/sprachwissen/sprachratgeber/um-zu-zu
+
+### Conjugation
+
+Subjekt im Singular, Verb im Plural?
+
+https://www.duden.de/sprachwissen/sprachratgeber/Subjekt-im-Singular%2C-Verb-im-Plural#google_vignette
+
+### Punctuation
+
+#### Komma
+
+https://www.studienkreis.de/deutsch/kommasetzung-lernen-regeln/
+
+## z. B.
+
+„Und so weiter und so fort“ vs. „Und so weiter“
+
+https://german.stackexchange.com/questions/25858/und-so-weiter-und-so-fort-vs-und-so-weiter
 
 ### Briefe
 
@@ -228,9 +334,17 @@ Die Ukraine oder Ukraine
 
 https://talk.lagedernation.org/t/die-ukraine-oder-ukraine/13165
 
+art der Beschäftigung (Vollzeite, Teilzeit)
+
 ## Prüfung
 
 https://www.klett-sprachen.de/download/19124/MP_DTZ_A2-B1_NP00810000160_Probe1.pdf
+
+## Other resources
+
+https://languagetool.org/insights/de/
+
+mein.cornelsen.de (books)
 
 ## License
 
