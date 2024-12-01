@@ -278,6 +278,8 @@ https://www.duden.de/sprachwissen/sprachratgeber/Subjekt-im-Singular%2C-Verb-im-
 
 ### Punctuation
 
+https://www.coerll.utexas.edu/gg/pdf/mis_01.pdf
+
 #### Komma
 
 https://www.studienkreis.de/deutsch/kommasetzung-lernen-regeln/
