@@ -95,15 +95,15 @@ Key features for Zahl + Genus + Kasus in "Begleiter":
 
 (<ins>Ausnahme</ins>: "/-" für unbestimmte Artikel/kein/Possesivpronomen)
 
+Memorize rule for N./D./Akk.: **R**o**M**a**N**
+  - in der N.-D.-Akk.-Rechtung für Maskulinum 
+  - für Dativ in der F-N-Plural-Rechtung
+
 |Kasus|M      |F  |N      |Plural|
 |-----|-------|---|-------|---|
 |Gen. |-**es**/-en|-**er**|-**es**/-en|-**er**|
 
 (<ins>Ausnahme</ins>: "/-en" für keine Artikel)
-
-Memorize rule for N./D./Akk.: **R**o**M**a**N**
-  - in der N.-D.-Akk.-Rechtung für Maskulinum 
-  - für Dativ in der F-N-Plural-Rechtung
 
 This rule is simply that one of (Artikeln, Adjektiven, Pronomen) should **show key feature once** (but not always):
 
