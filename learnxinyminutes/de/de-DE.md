@@ -89,45 +89,45 @@ Key features for Zahl + Genus + Kasus in "Begleiter":
 
 |Kasus|M      |F  |N      |Plural|
 |-----|-------|---|-------|---|
-|N.   |-er/-  |-e |-es/-  |-e |
-|D.   |-em    |-er|-em    |-en|
-|Akk. |-en 	  |-e |-es/-  |-e |
+|N.   |-**er**/-  |-**e** |-**es**/-  |-**e** |
+|D.   |-**em**    |-**er**|-**em**    |-**en**|
+|Akk. |-**en** 	  |-**e** |-**es**/-  |-**e** |
 
-("/-" für unbestimmte Artikel/kein/Possesivpronomen)
+(<ins>Ausnahme</ins>: "/-" für unbestimmte Artikel/kein/Possesivpronomen)
 
 |Kasus|M      |F  |N      |Plural|
 |-----|-------|---|-------|---|
-|Gen. |-es/-en|-er|-es/-en|-er|
+|Gen. |-**es**/-en|-**er**|-**es**/-en|-**er**|
 
-("/-en" für keine Artikel)
+(<ins>Ausnahme</ins>: "/-en" für keine Artikel)
 
 Memorize rule for N./D./Akk.: **R**o**M**a**N**
   - in der N.-D.-Akk.-Rechtung für Maskulinum 
   - für Dativ in der F-N-Plural-Rechtung
 
-This rule is simply that one of (Artikeln, Adjektiven, Pronomen) should show M/F/N/Plural feature once (but not always):
+This rule is simply that one of (Artikeln, Adjektiven, Pronomen) should **show key feature once** (but not always):
 
 |Kasus|M                      | |F                     | |N                     | |Plural              |     |
 |-----|----------------------:|-|---------------------:|-|---------------------:|-|-------------------:|-----|
-|N.   |d**er**       gute     | |di**e**      gute     | |d**as**      gute     | |di**e**    gute*n*  |     |
-|     |ein        gut**er**| |ein**e**  gute     | |ein       gut**es**|Auto|kein**e**  gute*n*  |Autos|
+|N.   |d**er**       gut*e*   | |di**e**      gut*e*   | |d**as**      gut*e*   | |di**e**    gut*en*  |     |
+|     |<ins>ein</ins> gut**er**| |ein**e**     gut*e*   | |<ins>ein</ins> gut**es**|Auto|kein**e**  gut*en*  |Autos|
 |     |              gut**er**| |             gut**e** | |             gut**es**| |           gut**e** |     |
 ||||||||||
-|D.   |d**em**       gute*n*  | |d**er**      gute*n*  | |d**em**      gute*n*  | |d**en**    gute*n*  |     |
-|     |ein**em**  gute*n*  | |ein**er** gute*n*  | |ein**em** gute*n*  |Auto|kein**en** gute*n*  |Autos|
+|D.   |d**em**       gut*en*  | |d**er**      gut*en*  | |d**em**      gut*en*  | |d**en**    gut*en*  |     |
+|     |ein**em**     gut*en*  | |ein**er**    gut*en*  | |ein**em**    gut*en*  |Auto|kein**en** gut*en*  |Autos|
 |     |              gut**em**| |             gut**er**| |             gut**em**| |           gut**en**|     |
 ||||||||||
-|Akk. |d**en**       gute*n*  | |di**e**      gute     | |d**as**      gute     | |di**e**    gute*n*  |     |
-|     |ein**en**  gute*n*  | |ein**e**  gute     | |ein       gut**es**|Auto|kein**e**  gute*n*  |Autos|
+|Akk. |d**en**       gut*en*  | |di**e**      gut*e*   | |d**as**      gut*e*   | |di**e**    gut*en* |     |
+|     |ein**en**     gut*en*  | |ein**e**     gut*e*   | |<ins>ein</ins> gut**es**|Auto|kein**e**  gut*en* |Autos|
 |     |              gut**en**| |             gut**e** | |             gut**es**| |           gut**e** |     |
 
 |Kasus|M                      | |F                     | |N                     | |Plural              |     |
 |-----|----------------------:|-|---------------------:|-|---------------------:|-|-------------------:|-----|
-|Gen. |d**es**       gute*n*| |d**er**      guten    | |d**es**      gute*n*| |d**er**    gute*n*  |     |
-|     |ein**es**     gute*n*| |ein**er**    guten    | |ein**es**    gute*n*|Auto***s***|kein**er** gute*n*  |Autos|
-|     |              gute*n*| |             gut**er**| |             gute*n*| |           gut**er**|     |
+|Gen. |d**es**       gut*en*| |d**er**      gut*en*  | |d**es**      gut*en*| |d**er**    gut*en*  |     |
+|     |ein**es**     gut*en*| |ein**er**    gut*en*  | |ein**es**    gut*en*|Auto***s***|kein**er** gut*en* |Autos|
+|     |   <ins>gut*en*</ins>| |             gut**er**| |  <ins>gut*en*</ins>| |           gut**er**|     |
 
-(If adjective has no ending-"feature", then it has **-e** in *Singular N.* or *F/N Akk.*, otherwise **-en**)
+(If adjective has no ending-"feature", then it has *-e* in *Singular N.* or *F/N Akk.*, otherwise *-en*)
 
 (ein/kein/mein/... have the same Endungen)
 
