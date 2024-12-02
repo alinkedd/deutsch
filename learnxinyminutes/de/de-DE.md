@@ -42,42 +42,50 @@ https://de.wikipedia.org/wiki/Rat_f%C3%BCr_deutsche_Rechtschreibung -->
 
 #### Substantive und Begleiter
 
+<!-- https://deutsch.info/grammar/nouns -->
 <!-- https://de.wikipedia.org/wiki/Grammatische_Kategorie#Grammatische_Kategorien_des_Nomens -->
+<!-- https://de.wikipedia.org/wiki/Genus#Kategorien,_Flexion,_Kongruenz -->
 
 Kategorien:
-- Singular, Plural – Numerus (Zahl)
+- Singular, [Plural](https://www.scribbr.de/substantive/plural/) – Numerus (Zahl)
 - Nominativ, Genitiv, Dativ, Akkusativ – Kasus (Fall)
 - Maskulinum, Femininum, Neutrum – Genus (Geschlecht)
+  - Das Genus kannst du meist nicht am Substantiv selbst erkennen, sondern nur an den Begleitern (Artikel, Pronomen, Adjektive).
 
-***
+<!-- ***
 
 Nomen: Zahl
 
 Plural:
-https://www.scribbr.de/substantive/plural/
+https://www.scribbr.de/substantive/plural/ -->
 
-***
+<!-- ***
 
 Nomen: Genus
 
-Das Genus kannst du meist nicht am Substantiv selbst erkennen, sondern nur an den Begleitern (Artikel, Pronomen, Adjektive).
+Das Genus kannst du meist nicht am Substantiv selbst erkennen, sondern nur an den Begleitern (Artikel, Pronomen, Adjektive). -->
 
 ***
 
 Nomen: Kasus
 
 <!-- https://www.wirtschaftsdeutsch.de/lehrmaterialien/grammatik-nomen-a.pdf -->
+<!-- https://www.lernhelfer.de/schuelerlexikon/deutsch/artikel/deklination-des-substantivs#/ -->
 
 - Normale Deklination
-  Im Dativ Plural: -n (wenn nicht schon auf "(e)n" oder "s" endet)
+  - Im Dativ Plural:
+    - -n (wenn nicht schon auf "(e)n" oder "s" endet)
+  - Im Genitiv M und N:
+    - *-s* (*-es* nach s, ß, x, z oder manchmal für einsilbige Nomen)
 - n-Deklination (einige M + das Herz)
-  Alle außer Nominativ Singular: -(e)n
+  - Alle außer Nominativ Singular: -(e)n
+    - Im Genitiv manchmal -(e)ns: Namens, Herzens,..
 - Adjektivdeklination:
-  same ending rules as for Adjektiv
+  - same ending rules as for Adjektiv
 
 ***
 
-Key features for Zahl + Genus + Kasus:
+Key features for Zahl + Genus + Kasus in "Begleiter":
 
 |Kasus|M      |F  |N      |Plural|
 |-----|-------|---|-------|---|
@@ -85,11 +93,17 @@ Key features for Zahl + Genus + Kasus:
 |D.   |-em    |-er|-em    |-en|
 |Akk. |-en 	  |-e |-es/-  |-e |
 
-("/-" für unbestimmte Artikel/kein/mein)
+("/-" für unbestimmte Artikel/kein/Possesivpronomen)
 
-Memorize rule:
-- **R**o**M**a**N**-Endung in der N-D-Akk-Rechtung für Maskulinum
-- **R**o**M**a**N**-Endung für Dativ in der F-N-Plural-Rechtung
+|Kasus|M      |F  |N      |Plural|
+|-----|-------|---|-------|---|
+|Gen. |-es/-en|-er|-es/-en|-er|
+
+("/-en" für keine Artikel)
+
+Memorize rule for N./D./Akk.: **R**o**M**a**N**
+  - in der N.-D.-Akk.-Rechtung für Maskulinum 
+  - für Dativ in der F-N-Plural-Rechtung
 
 This rule is simply that one of (Artikeln, Adjektiven, Pronomen) should show M/F/N/Plural feature once (but not always):
 
@@ -99,7 +113,7 @@ This rule is simply that one of (Artikeln, Adjektiven, Pronomen) should show M/F
 |     |ein        gut**er**| |ein**e**  gute     | |ein       gut**es**|Auto|kein**e**  gute*n*  |Autos|
 |     |              gut**er**| |             gut**e** | |             gut**es**| |           gut**e** |     |
 ||||||||||
-|D.   |d**em**       gute*n*  | |d**er**      gute*n*  | |d**em**      gute*n*  | |de**n**    gute*n*  |     |
+|D.   |d**em**       gute*n*  | |d**er**      gute*n*  | |d**em**      gute*n*  | |d**en**    gute*n*  |     |
 |     |ein**em**  gute*n*  | |ein**er** gute*n*  | |ein**em** gute*n*  |Auto|kein**en** gute*n*  |Autos|
 |     |              gut**em**| |             gut**er**| |             gut**em**| |           gut**en**|     |
 ||||||||||
@@ -107,7 +121,13 @@ This rule is simply that one of (Artikeln, Adjektiven, Pronomen) should show M/F
 |     |ein**en**  gute*n*  | |ein**e**  gute     | |ein       gut**es**|Auto|kein**e**  gute*n*  |Autos|
 |     |              gut**en**| |             gut**e** | |             gut**es**| |           gut**e** |     |
 
-(If adjective has no ending-"feature", then it has -e in Sing. Nom. or F/N Akk., otherwise -en)
+|Kasus|M                      | |F                     | |N                     | |Plural              |     |
+|-----|----------------------:|-|---------------------:|-|---------------------:|-|-------------------:|-----|
+|Gen. |d**es**       gute*n*| |d**er**      guten    | |d**es**      gute*n*| |d**er**    gute*n*  |     |
+|     |ein**es**     gute*n*| |ein**er**    guten    | |ein**es**    gute*n*|Auto***s***|kein**er** gute*n*  |Autos|
+|     |              gute*n*| |             gut**er**| |             gute*n*| |           gut**er**|     |
+
+(If adjective has no ending-"feature", then it has **-e** in *Singular N.* or *F/N Akk.*, otherwise **-en**)
 
 (ein/kein/mein/... have the same Endungen)
 
@@ -117,44 +137,16 @@ In sentence:
 - Subjekt - Nominativ always
 - Objekt - Dativ (wann, wo, wem) oder Akkusativ (und Nominativ/Genitiv after some verbs)
 
-##### Genitiv
+##### Possesion
 
 - HW + Gen.
+- Gen.(Name) + HW. : mit dem Apostroph
+- HW + von + D. 
 
-  Nomen:
-  - normale Deklination: Maskuline und neutrale singulare Nomen:
-    - *-s* (*-es* nach s, ß, x, z oder manchmal für einsilbige Nomen)
-  - n-Deklination:
-    - *-(e)n* - gleich wie andere Fälle
-    - aber Namens, Herzens,..
-  - Adjektivdeklination:
-    same ending rules as for Adjektiv
+##### Genitiv
 
-  Key features for Zahl + Genus + Kasus:
-
-  |Kasus|M  |F  |N  |Plural|
-  |-----|--:|--:|--:|--:|
-  |Gen. |-es/-en|-er|-es/-en|-er|
-
-  ("/-en" für keine Artikel)
-
-  This rule is simply that one of (Artikeln, Adjektiven, Pronomen) should show M/F/N/Plural feature once (but not always):
-
-  |Kasus|M                    | |F                     | |N                   | |Plural              |     |
-  |-----|--------------------:|-|---------------------:|-|-------------------:|-|-------------------:|-----|
-  |Gen. |d**es**       gute*n*| |d**er**      guten    | |d**es**      gute*n*| |d**er**    gute*n*  |     |
-  |     |ein**es**     gute*n*| |ein**er**    guten    | |ein**es**    gute*n*|Auto***s***|kein**er** gute*n*  |Autos|
-  |     |              gute*n*| |             gut**er**| |             gute*n*| |           gut**er**|     |
-
-  (If adjective has no ending-"feature", then it has -en)
-
-- Gen.(Name) + HW.
-
-  mit dem Apostroph
-
-- Trick: HW + von + D. 
-
-Also: (wegen, während, trotz, innerhalb, außerhalb) + Gen., einige Verben + Gen.
+- (wegen, während, trotz, innerhalb, außerhalb) + Gen.
+- einige Verben + Gen.
 
   https://easy-deutsch.de/nomen/kasus/genitiv/
 
