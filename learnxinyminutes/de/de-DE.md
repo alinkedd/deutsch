@@ -93,11 +93,11 @@ Key features for Zahl + Genus + Kasus in "Begleiter":
 |D.   |-**em**    |-**er**|-**em**    |-**en**|
 |Akk. |-**en** 	  |-**e** |-**es**/-  |-**e** |
 
-(<ins>Ausnahme</ins>: "/-" für unbestimmte Artikel/kein/Possesivpronomen)
+(<ins>Ausnahme</ins>: "/-" für unbestimmte Artikel/kein/Possesivartikel)
 
 Memorize rule for N./D./Akk.: **R**o**M**a**N**
-  - in der N.-D.-Akk.-Rechtung für Maskulinum 
-  - für Dativ in der F-N-Plural-Rechtung
+  - in der N.-D.-Akk.-Richtung für Maskulinum 
+  - für Dativ in der F-N-Plural-Richtung
 
 |Kasus|M      |F  |N      |Plural|
 |-----|-------|---|-------|---|
@@ -109,15 +109,18 @@ This rule is simply that one of (Artikeln, Adjektiven, Pronomen) should **show k
 
 |Kasus|M                      | |F                     | |N                     | |Plural              |     |
 |-----|----------------------:|-|---------------------:|-|---------------------:|-|-------------------:|-----|
-|N.   |d**er**       gut*e*   | |di**e**      gut*e*   | |d**as**      gut*e*   | |di**e**    gut*en*  |     |
+|N.   |                 | e**r**|               | si**e**|                | e**s**|             |     si**e**|
+|     |d**er**       gut*e*   | |di**e**      gut*e*   | |d**as**      gut*e*   | |di**e**    gut*en*  |     |
 |     |<ins>ein</ins> gut**er**| |ein**e**     gut*e*   | |<ins>ein</ins> gut**es**|Auto|kein**e**  gut*en*  |Autos|
 |     |              gut**er**| |             gut**e** | |             gut**es**| |           gut**e** |     |
 ||||||||||
-|D.   |d**em**       gut*en*  | |d**er**      gut*en*  | |d**em**      gut*en*  | |d**en**    gut*en*  |     |
+|D.   |                | ih**m**|               | ih**r**|               | ih**m**|           |     ihn**en**|
+|     |d**em**       gut*en*  | |d**er**      gut*en*  | |d**em**      gut*en*  | |d**en**    gut*en*  |     |
 |     |ein**em**     gut*en*  | |ein**er**    gut*en*  | |ein**em**    gut*en*  |Auto|kein**en** gut*en*  |Autos|
 |     |              gut**em**| |             gut**er**| |             gut**em**| |           gut**en**|     |
 ||||||||||
-|Akk. |d**en**       gut*en*  | |di**e**      gut*e*   | |d**as**      gut*e*   | |di**e**    gut*en* |     |
+|Akk. |                | ih**n**|               | si**e**|                | e**s**|             |     si**e**|
+|     |d**en**       gut*en*  | |di**e**      gut*e*   | |d**as**      gut*e*   | |di**e**    gut*en* |     |
 |     |ein**en**     gut*en*  | |ein**e**     gut*e*   | |<ins>ein</ins> gut**es**|Auto|kein**e**  gut*en* |Autos|
 |     |              gut**en**| |             gut**e** | |             gut**es**| |           gut**e** |     |
 
