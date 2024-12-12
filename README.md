@@ -63,7 +63,7 @@ ihre Dienste sing sehr teuer
 
 kennen / wissen
 
-je desto
+je ... desto
 
 https://github.com/AlexNisnevich/untrusted
 
@@ -109,6 +109,40 @@ passieren, geschehen, auftreten, erfolgen und stattfinden
 
 https://www.reddit.com/r/German/comments/t7d5lx/wie_unterscheiden_sich_passieren_geschehen/?tl=de
 
+betreiben, Betrieb
+
+Pannenhilfe
+
+Drogen, Vergiftung
+
+Ersatzrad
+
+Gegenstand
+
+sagen/geben Bescheid
+
+danken für alles
+
+Schere
+
+beschließen und entscheiden
+
+auf jeden Fall
+
+ich weiß ... von
+
+haben Einfluss auf
+
+Gott sei Dank!
+
+Ordner
+
+Meinungäußerung
+
+Rechnung und Abrechnung (https://stripe.com/de/resources/more/what-is-the-difference-between-an-invoice-and-bill)
+
+sich verpflichten
+
 ## Rechtschreibung
 
 Datum
@@ -129,13 +163,13 @@ https://www.duden.de/rechtschreibung/sowie
 
 ## Morphology
 
-### Präfixe
+### Präfixe und Suffixe
 
 Meanings of prefixes
 
 https://www.studysmarter.de/studium/germanistik/sprachwissenschaft/praefixe/
 
--mäßig
+-mäßig (x betreffend/-wise) und -technisch (die Technik/... von x betreffend)
 
 -bar
 
@@ -302,11 +336,13 @@ https://schreibundstil.de/blogs/schreibkultur/einladungen-schreiben
 
 falls Sie / sofern Sie
 
-e.V. (eingetragener Verein)
+e.V. (eingetragener Verein), AG (Aktiengesellschaft)
 
 Ich freue mich auf
 
 Lebenslauf / Bewerbung
+
+Könnten SIe mir bitte mitteilen
 
 ## Germany
 
@@ -337,6 +373,8 @@ Die Ukraine oder Ukraine
 https://talk.lagedernation.org/t/die-ukraine-oder-ukraine/13165
 
 art der Beschäftigung (Vollzeite, Teilzeit)
+
+Es gibt kein schlechtes Wetter, es gibt nur falsche Kleidung
 
 ## Prüfung
 
